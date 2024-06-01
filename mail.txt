@@ -1,0 +1,7 @@
+<DOCTYPE html>
+<html>
+<body>
+<center><p>Reach me out through Mail</p></center>
+<p><a href="https://mail.google.com/mail">Send email to chandana9894@gmail.com</a></p>
+</body>
+</html>
